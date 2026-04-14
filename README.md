@@ -70,10 +70,3 @@ src/
 └── index.js             # Entry point of the React application
 ```
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to modify and enhance the project.
-
-## 📝 License
-
-This project is built using React and is open for modifications and personal usage.
